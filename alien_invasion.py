@@ -1,8 +1,6 @@
 import sys
 from time import sleep
-
 import pygame
-
 from settings import Settings
 from game_stats import GameStats
 from scoreboard import Scoreboard
